@@ -1,0 +1,22 @@
+body {
+    font-style: italic; 
+    color: green;
+    background-color: black;
+    margin: 0;
+ }
+
+ #contenido {
+     width: 70%;
+     margin: auto;
+     background-color: white;
+     padding: 20px;
+ }
+
+ #integrantes h2 {
+     color: red;
+ }
+
+ .seccion img {
+     width: 200px;
+     height: auto;
+ }
